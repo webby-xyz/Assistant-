@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mera Assistant</string>
+    <string name="accessibility_desc">Ye service app ko screen par tap, swipe aur type karne ki permission deti hai taake AI assistant aapki commands execute kar sake.</string>
+</resources>
